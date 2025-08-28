@@ -90,7 +90,7 @@ Passos per reproduir:
 - OS: 
 - Browser/versió: 
 - Altres detalls:
-```
+~~~~
 
 ---
 
